@@ -2,7 +2,7 @@ import sys
 
 def read_fasta(filename):
     """
-    Read in a file in FASTA format!!!
+    Read in a file in FASTA format!!!&&&&&&&&&
     """
     seq = ''
     f = open(filename)
