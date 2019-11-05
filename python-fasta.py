@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding:
+
 def read_fasta(filename):
     """
     Read in a file in FASTA format
@@ -11,6 +14,3 @@ def read_fasta(filename):
     f.close()
     return seq
 print(read_fasta('ae.fa'))
-
-
-#test 
